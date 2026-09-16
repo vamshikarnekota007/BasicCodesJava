@@ -10,6 +10,7 @@ public class loop_sum_even_number {
 		for(int i=1;i<=number;i++) {
 			if(i %2==0) {
 			sum=sum+i;
+			System.out.println("hello");
 		}
 		}
 			System.out.println(sum);
